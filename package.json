@@ -1,6 +1,6 @@
 {
   "name": "@solana/prettier-config-solana",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Prettier rules to be shared across all Solana Labs projects",
   "main": "./index.json",
   "type": "module",
