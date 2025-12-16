@@ -17,11 +17,19 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anza-xyz/prettier-config-solana"
+  },
   "bugs": {
     "url": "https://github.com/solana-labs/prettier-config-solana/issues"
   },
   "homepage": "https://github.com/solana-labs/prettier-config-solana",
   "peerDependencies": {
     "prettier": "^3.2.0"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.5.2",
+    "@changesets/cli": "^2.29.8"
   }
 }
